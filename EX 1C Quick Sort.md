@@ -31,8 +31,8 @@ To write a python program to implement quick sort using tha last element as pivo
 ```
 
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by:ALAGU NACHIYAR K
-Register Number:212222240006
+Developed by: HARIHARAN A
+Register Number:  212222100012
 
 
 def partition(arr, low, high):
